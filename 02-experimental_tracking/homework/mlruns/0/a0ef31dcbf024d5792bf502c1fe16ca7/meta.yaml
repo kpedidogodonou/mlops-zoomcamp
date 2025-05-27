@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kpedido/code/learning_projects/mlops/2_experimental_tracking/homework/mlruns/0/a0ef31dcbf024d5792bf502c1fe16ca7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0ef31dcbf024d5792bf502c1fe16ca7
+run_name: calm-pig-6
+run_uuid: a0ef31dcbf024d5792bf502c1fe16ca7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748300233828
+status: 1
+tags: []
+user_id: kpedido

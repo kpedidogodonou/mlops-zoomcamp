@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kpedido/code/learning_projects/mlops/2_experimental_tracking/homework/mlruns/0/5b0c7f98882b4b64a93b611b0bca4064/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5b0c7f98882b4b64a93b611b0bca4064
+run_name: carefree-whale-441
+run_uuid: 5b0c7f98882b4b64a93b611b0bca4064
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748299935596
+status: 1
+tags: []
+user_id: kpedido

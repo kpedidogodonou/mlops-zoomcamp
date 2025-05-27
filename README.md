@@ -1,3 +1,1 @@
-# Mops-zoomcamp
-
-This is coool!
+# MLOPs-ZOOMCAMP
